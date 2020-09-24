@@ -10,6 +10,7 @@ Right now, all it does is use the [eiannone/keyboard](https://github.com/eiannon
 
 ## ToDO
 Add more useful features like:
+[] Listen to keystrokes globally(any active window) and record it in file.
 [] Send the recorded keystrokes/file over email.
 [] Improve performance so that it consumes system resources minimally and stay under the radar.
 [] At some point, write own code for mapping and recording the keystrokes.
